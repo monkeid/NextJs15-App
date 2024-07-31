@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "title": "Complete Python Mastery",
+      "description": "Everything you need to program in Python in one course.",
+      "image": "/images/python-course.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Complete JavaScript Mastery",
+      "description": "Master JavaScript with hands-on projects and exercises.",
+      "image": "/images/javascript-course.jpg"
+    }
+  ]
+  
